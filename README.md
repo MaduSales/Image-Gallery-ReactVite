@@ -10,7 +10,7 @@ Imagem do projeto: https://github.com/MaduSales/Image-Gallery-ReactVite/assets/1
 
 <br>
 
-Projeto feito com HTML, CSS, JavaScript, React.JS e Git de uma galeria de imagens onde o usuário pode navegar entre diferentes fotos.  
+Projeto feito com HTML, CSS, JavaScript, React.JS e Git de uma galeria de imagens onde o usuário pode navegar entre diferentes fotos com o uso de uma API.  
 <br>
 <br>
 <br>
